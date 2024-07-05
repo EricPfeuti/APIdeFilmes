@@ -14,3 +14,6 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
+
+## Lembretes:
+Não se esqueça de instalar o npm install express no terminal e depois escreve node (NomeDoArquivo).js para ver a API funcionando!!
