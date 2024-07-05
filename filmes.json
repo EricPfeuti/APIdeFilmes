@@ -1,0 +1,162 @@
+[
+  {
+    "nome": "O Poderoso Chefão",
+    "descricao": "A saga da família mafiosa Corleone.",
+    "url_cartaz": "https://br.web.img3.acsta.net/medias/nmedia/18/90/93/20/20120876.jpg",
+    "genero": "Drama",
+    "ano": 1972,
+    "diretor": "Francis Ford Coppola"
+  },
+  {
+    "nome": "O Cavaleiro das Trevas",
+    "descricao": "Batman enfrenta o Coringa em Gotham City.",
+    "url_cartaz": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/86/98/32/19870786.jpg",
+    "genero": "Ação",
+    "ano": 2008,
+    "diretor": "Christopher Nolan"
+  },
+  {
+    "nome": "Pulp Fiction",
+    "descricao": "Histórias entrelaçadas de crime em Los Angeles.",
+    "url_cartaz": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/Pulp_Fiction_cover.jpg/230px-Pulp_Fiction_cover.jpg",
+    "genero": "Drama",
+    "ano": 1994,
+    "diretor": "Quentin Tarantino"
+  },
+  {
+    "nome": "Forrest Gump",
+    "descricao": "A vida de um homem simples que testemunha eventos históricos dos EUA.",
+    "url_cartaz": "https://upload.wikimedia.org/wikipedia/pt/thumb/c/c0/ForrestGumpPoster.jpg/240px-ForrestGumpPoster.jpg",
+    "genero": "Romance",
+    "ano": 1994,
+    "diretor": "Robert Zemeckis"
+  },
+  {
+    "nome": "Clube da Luta",
+    "descricao": "Um homem insatisfeito cria um clube de luta secreto.",
+    "url_cartaz": "https://a-static.mlcdn.com.br/450x450/poster-cartaz-clube-da-luta-f-pop-arte-poster/poparteskins2/15938513825/366a70ef0e66c56c1574e9661e8670ff.jpeg",
+    "genero": "Drama",
+    "ano": 1999,
+    "diretor": "David Fincher"
+  },
+  {
+    "nome": "Matrix",
+    "descricao": "Um hacker descobre a verdadeira natureza da realidade.",
+    "url_cartaz": "https://a-static.mlcdn.com.br/450x450/poster-cartaz-matrix-a-pop-arte-poster/poparteskins2/15938515632/b82f6109e99466b832fdbdbc6acfb8a6.jpeg",
+    "genero": "Sci-Fi",
+    "ano": 1999,
+    "diretor": "Lana Wachowski, Lilly Wachowski"
+  },
+  {
+    "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+    "descricao": "Um hobbit embarca em uma jornada para destruir um anel poderoso.",
+    "url_cartaz": "https://a-static.mlcdn.com.br/450x450/poster-cartaz-o-senhor-dos-aneis-a-sociedade-do-anel-a-pop-arte-poster/poparteskins2/15938525149/9e616a017fe3dbe414865e60d1330134.jpeg",
+    "genero": "Aventura",
+    "ano": 2001,
+    "diretor": "Peter Jackson"
+  },
+  {
+    "nome": "A Origem",
+    "descricao": "Um ladrão que invade sonhos é oferecido uma chance de redenção.",
+    "url_cartaz": "https://i.pinimg.com/474x/3c/1d/3f/3c1d3f803b633f39006e8a45171e1f89.jpg",
+    "genero": "Ação",
+    "ano": 2010,
+    "diretor": "Christopher Nolan"
+  },
+  {
+    "nome": "Interestelar",
+    "descricao": "Exploradores espaciais buscam um novo lar para a humanidade.",
+    "url_cartaz": "https://a-static.mlcdn.com.br/450x450/poster-cartaz-interestelar-d-pop-arte-poster/poparteskins2/15938532819/3b72c3589647278f89efc5d7d8332c68.jpeg",
+    "genero": "Sci-Fi",
+    "ano": 2014,
+    "diretor": "Christopher Nolan"
+  },
+  {
+    "nome": "O Silêncio dos Inocentes",
+    "descricao": "Uma agente do FBI busca a ajuda de um canibal para capturar um serial killer.",
+    "url_cartaz": "https://a-static.mlcdn.com.br/450x450/poster-cartaz-o-silencio-dos-inocentes-b-pop-arte-poster/poparteskins2/15938515843/333e1add037682dcf954a85f545499fa.jpeg",
+    "genero": "Thriller",
+    "ano": 1991,
+    "diretor": "Jonathan Demme"
+  },
+  {
+    "nome": "Cidade de Deus",
+    "descricao": "A história de criminalidade e violência em uma favela do Rio de Janeiro.",
+    "url_cartaz": "https://upload.wikimedia.org/wikipedia/pt/1/10/CidadedeDeus.jpg",
+    "genero": "Drama",
+    "ano": 2002,
+    "diretor": "Fernando Meirelles, Kátia Lund"
+  },
+  {
+    "nome": "Star Wars: Episódio IV - Uma Nova Esperança",
+    "descricao": "Luke Skywalker se junta à luta contra o Império Galáctico.",
+    "url_cartaz": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX5vQFLB0OmlNfp8oVqpNhyuIH07Jz7-Sdcw&s",
+    "genero": "Aventura",
+    "ano": 1977,
+    "diretor": "George Lucas"
+  },
+  {
+    "nome": "Gladiador",
+    "descricao": "Um general romano busca vingança contra o imperador corrupto que matou sua família.",
+    "url_cartaz": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAHsq4uPXp-cb9h_ut1oa5ObDzOSpr7xdNDw&s",
+    "genero": "Aventura",
+    "ano": 2000,
+    "diretor": "Ridley Scott"
+  },
+  {
+    "nome": "Titanic",
+    "descricao": "Um romance trágico a bordo do navio Titanic.",
+    "url_cartaz": "https://upload.wikimedia.org/wikipedia/pt/2/22/Titanic_poster.jpg",
+    "genero": "Romance",
+    "ano": 1997,
+    "diretor": "James Cameron"
+  },
+  {
+    "nome": "O Exterminador do Futuro 2: O Julgamento Final",
+    "descricao": "Um cyborg protetor é enviado para salvar o futuro líder da resistência humana.",
+    "url_cartaz": "https://media.fstatic.com/icVhZmRnsJ_imtn8ejNj9eN_72Q=/322x478/smart/filters:format(webp)/media/movies/covers/2012/10/21d52d848c02f78e9766ef05eec93383.jpg",
+    "genero": "Sci-Fi",
+    "ano": 1991,
+    "diretor": "James Cameron"
+  },
+  {
+    "nome": "Blade Runner: O Caçador de Androides",
+    "descricao": "Um caçador de androides persegue replicantes em um futuro distópico.",
+    "url_cartaz": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/af/Blade_Runner_2049.png/250px-Blade_Runner_2049.png",
+    "genero": "Sci-Fi",
+    "ano": 1982,
+    "diretor": "Ridley Scott"
+  },
+  {
+    "nome": "Os Infiltrados",
+    "descricao": "Um policial disfarçado tenta derrubar uma organização criminosa de dentro.",
+    "url_cartaz": "https://a-static.mlcdn.com.br/450x450/poster-cartaz-os-infiltrados-b-pop-arte-poster/poparteskins2/15938524903/98f8a5cc141a25f921d5b01484e93307.jpeg",
+    "genero": "Ação",
+    "ano": 2006,
+    "diretor": "Martin Scorsese"
+  },
+  {
+    "nome": "Coringa",
+    "descricao": "A origem do vilão Coringa, um comediante falido que se torna um assassino psicopata.",
+    "url_cartaz": "https://www.ucicinemas.com.br/Content/Upload/Filmes/Posters/8966/filme_8966.jpg",
+    "genero": "Thriller",
+    "ano": 2019,
+    "diretor": "Todd Phillips"
+  },
+  {
+    "nome": "A Vida é Bela",
+    "descricao": "Durante a Segunda Guerra Mundial, um pai usa humor para proteger seu filho dos horrores ao seu redor.",
+    "url_cartaz": "https://a-static.mlcdn.com.br/450x450/poster-cartaz-a-vida-e-bela-pop-arte-poster/poparteskins2/15938516176/78a94ae600818259343c3d7d5cf8b960.jpeg",
+    "genero": "Romance",
+    "ano": 1997,
+    "diretor": "Roberto Benigni"
+  },
+  {
+    "nome": "Parasita",
+    "descricao": "Uma família pobre se infiltra na vida de uma família rica com consequências trágicas.",
+    "url_cartaz": "https://artecult.com/wp-content/uploads/2019/11/Parasita-Poster-428x600.jpg",
+    "genero": "Thriller",
+    "ano": 2019,
+    "diretor": "Bong Joon Ho"
+  }
+]
