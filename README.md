@@ -16,4 +16,4 @@
 </div><br/>
 
 ## Lembretes:
-Não se esqueça de instalar o npm install express no terminal e depois escreve node (NomeDoArquivo).js para ver a API funcionando!!
+Não se esqueça de instalar o npm install express no terminal e depois escreve node server.js para ver a API funcionando!!
