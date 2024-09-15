@@ -1,6 +1,6 @@
 # API de FILMES
 
-## Olá 🖐️! Criei esta API  utilizando BootStrap que contém alguns filmes e nela você pode:<br/>
+## Olá 🖐️! Criei minha primeira API utilizando BootStrap que contém alguns filmes, feita com os dados sendo armazenados num arquivo JSON e nela você pode:<br/>
 - Adicionar filmes que você goste;<br/>
 - Excluir filmes;<br/>
 - Pesquisar filmes por gênero;<br/>
