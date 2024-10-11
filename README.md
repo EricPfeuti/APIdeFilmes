@@ -7,5 +7,5 @@
 - Editar dados de um filme;<br/>
 - Verficar todos os filmes nesta API em formato de cards;<br/>
 
-## Linguagens Utilizadas:
+## LINGUAGENS UTILIZADAS:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs)](https://skillicons.dev)
