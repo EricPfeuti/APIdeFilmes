@@ -9,6 +9,3 @@
 
 ## Linguagens Utilizadas:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs)](https://skillicons.dev)
-
-## Lembretes:
-Não se esqueça de instalar o npm install express no terminal e depois escreve node server.js para ver a API funcionando!!
