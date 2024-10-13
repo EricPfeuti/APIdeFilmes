@@ -1,6 +1,6 @@
 # API de FILMES
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" style="width:35px;">  Olá! Criei minha primeira API utilizando BootStrap que contém alguns filmes, feita com os dados sendo armazenados num arquivo JSON e nela você pode:<br/>
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" style="width:35px;">  Olá! Criei minha primeira API utilizando BootStrap e nela você pode:<br/>
 - Adicionar filmes que você goste;<br/>
 - Excluir filmes;<br/>
 - Pesquisar filmes por gênero;<br/>
